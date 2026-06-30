@@ -4,7 +4,7 @@ Version=1.0
 
 Type=Application
 
-Name=WarpOss
+Name=FaroOss
 GenericName=TerminalEmulator
 
 Exec=warp-oss %U
