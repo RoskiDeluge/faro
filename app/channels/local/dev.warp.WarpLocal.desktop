@@ -4,7 +4,7 @@ Version=1.0
 
 Type=Application
 
-Name=WarpLocal
+Name=FaroLocal
 GenericName=TerminalEmulator
 
 Exec=warp-terminal-local %U
